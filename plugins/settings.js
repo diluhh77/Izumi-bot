@@ -133,10 +133,10 @@ izumi({
         const vcard = 'BEGIN:VCARD\n' +
         'VERSION:3.0\n' +
         'N:;;;;\n' +
-        'FN:Eypz God\n' +
-        'TEL;type=Mobile;waid=917902624272:+91 79026 24272\n' +
-        "X-WA-BIZ-DESCRIPTION:Izumi, a multi-device WhatsApp bot.\nwa.me/917902624272" +
-        'X-WA-BIZ-NAME:Eypz God\n' +
+        'FN:Lynx God\n' +
+        'TEL;type=Mobile;waid=918138898059:+91 81388 98059\n' +
+        "X-WA-BIZ-DESCRIPTION:Izumi, a multi-device WhatsApp bot.\nwa.me/918138898059" +
+        'X-WA-BIZ-NAME:Lynx God\n' +
         'END:VCARD';
 
         await client.sendMessage(message.jid, {
@@ -146,9 +146,9 @@ izumi({
             contextInfo: { 
                 externalAdReply: {
                     title: "Iᴢᴜᴍɪ Sᴜᴘᴘᴏʀᴛ🧚‍♂️",
-                    body: "Eypz",
-                    sourceUrl: "https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe",
-                    mediaUrl: "https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe",
+                    body: "LyNx",
+                    sourceUrl: "",
+                    mediaUrl: "",
                     mediaType: 1,
                     showAdAttribution: true,
                     renderLargerThumbnail: false,
